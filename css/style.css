@@ -1,0 +1,26 @@
+
+.banner{
+	 background: url(../images/banner.jpg);
+	 background-size: cover;
+     
+}
+.mail-box{
+	background:white; 
+}
+.mail-box h1{
+	border-bottom: 1px;
+}
+.container{}
+.container h1{
+	text-align: center;
+}
+.container p{
+	text-align: center;
+}
+.owner{
+	background-color: #eee;
+}
+.pa{
+	padding-left: 0;
+	padding-right: 0;
+}
